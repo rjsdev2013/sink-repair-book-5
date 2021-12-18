@@ -1,0 +1,36 @@
+.label {
+    display: flex;
+    flex-direction: column
+}
+
+.input{
+width: 780px;
+}
+
+ul {
+    display: flex;
+    flex-direction: column
+}
+
+.div1 {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 5px;
+    background-color:grey;
+    padding: 1px;
+    border: 1px dotted black;
+    list-style: none
+}
+
+.request {
+    margin-right: auto
+}
+
+select {
+    margin-right: 2rem
+
+}
+
+.request__delete {
+    background-color: lightblue
+}
